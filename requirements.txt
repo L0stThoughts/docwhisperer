@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+langgraph
+chromadb
+streamlit
+ragas
+rank-bm25
+unstructured
+pypdf
+pydantic-settings
+python-dotenv
+httpx
+openai

@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Chroma DB and data
+chroma_db/
+data/
+
+# Streamlit
+.streamlit/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
